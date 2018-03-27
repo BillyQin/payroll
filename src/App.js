@@ -97,7 +97,7 @@ class App extends Component {
     return (
       <Layout>
         <Header className="header">
-          <div className="logo">老董区块链干货铺员工系统</div>
+          <div className="logo">员工薪酬系统</div>
           <Menu
             theme="dark"
             mode="horizontal"
@@ -115,7 +115,7 @@ class App extends Component {
           </Layout>
         </Content>
         <Footer style={{ textAlign: 'center' }}>
-          Payroll ©2017 老董区块链干货铺
+          Payroll
         </Footer>
       </Layout>
     );
